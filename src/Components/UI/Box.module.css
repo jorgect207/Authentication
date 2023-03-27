@@ -1,0 +1,8 @@
+.Box {
+  width: 60%;
+  margin: 1rem auto;
+  height: 20rem;
+  border-radius: 20px;
+  background: #efd9ce;
+  box-shadow: 5px 5px 10px #e5d0c6, -5px -5px 10px #f9e2d6;
+}
